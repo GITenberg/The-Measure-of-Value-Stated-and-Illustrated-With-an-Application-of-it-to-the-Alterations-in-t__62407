@@ -1,0 +1,28 @@
+_repo: The-Measure-of-Value-Stated-and-Illustrated-With-an-Application-of-it-to-the-Alterations-in-t__62407
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Malthus, T. R. (Thomas Robert)
+    alias: Malthus, Thomas Robert
+    birthdate: 1766
+    deathdate: 1834
+    gutenberg_agent_id: '1411'
+    url: http://www.gutenberg.org/2009/agents/1411
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Malthus
+description: ''
+gutenberg_issued: '2020-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Currency question -- Great Britain'
+- !lcsh 'Value'
+- !lcc 'HB'
+- GITenberg
+title: "The Measure of Value Stated and Illustrated\r\nWith an Application of it to\
+  \ the Alterations in the Value of the English Currency since 1790"
+url: http://www.gutenberg.org/ebooks/62407
